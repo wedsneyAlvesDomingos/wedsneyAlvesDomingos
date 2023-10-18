@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+- i am working as a front end intern for Invent Vision
 - 🔭 I’m currently working on Front End lessons
 - 🌱 I’m currently learning Javascript, HTML, CSS, TYPESCRIPT, REACT 
 - 👯 I’m looking to collaborate on Web Development
