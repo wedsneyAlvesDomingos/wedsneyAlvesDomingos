@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- i am working as a front end intern for Invent Vision
+- i am working as a front end developer for Invent Vision
 - 🔭 I’m currently working on Front End lessons, Rect SPA with MUI
 - 🌱 I’m currently learning Javascript, HTML, CSS, REACT,Bootstrap and MUI
   & back in college for a computer science degree
