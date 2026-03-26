@@ -17,7 +17,7 @@
 ```js
 const wedsney = {
   role:       "Front End Developer @ WWS",
-  currently:  ["Computuer science degree","JQuery + PHP + Bootstrap", "Typescript", "React SPA", "MUI components"],
+  currently:  ["JQuery + PHP + Bootstrap", "Typescript", "React SPA", "MUI components"],
   learning:   ["JavaScript", "HTML", "CSS", "React", "Bootstrap","PHP", "Typescript", "MUI"],
   education:  "Back in college 🎓 — Computer Science Degree",
   collab:     "Web Development projects",
