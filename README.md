@@ -18,7 +18,7 @@
 
 ```js
 const wedsney = {
-  role:       "Front End Developer @ Invent Vision & Promeat",
+  role:       "Front End Developer @ WWS",
   currently:  ["Computuer science degree","JQuery + PHP + Bootstrap", "Typescript", "React SPA", "MUI components"],
   learning:   ["JavaScript", "HTML", "CSS", "React", "Bootstrap", "MUI"],
   education:  "Back in college 🎓 — Computer Science Degree",
