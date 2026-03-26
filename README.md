@@ -4,8 +4,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Front+End+Developer+%40+WWS;React+%7C+JavaScript+%7C+TypeScript+%7C+HTML+%7C+CSS;Bootstrap+%7C+MUI+%7C+Computer+Science+Student;Artist+%7C+Animator+%7C+TTRPG+Enthusiast+🎲)](https://git.io/typing-svg)
