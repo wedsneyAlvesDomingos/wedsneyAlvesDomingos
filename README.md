@@ -47,14 +47,6 @@ const wedsney = {
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=wedsneyAlvesDomingos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wedsneyAlvesDomingos&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
 
 <div align="center">
 
