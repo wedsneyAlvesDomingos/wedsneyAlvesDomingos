@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Front+End+Developer+%40+Invent+Vision;React+%7C+JavaScript+%7C+HTML+%7C+CSS;Bootstrap+%7C+MUI+%7C+Computer+Science+Student;Artist+%7C+Animator+%7C+TTRPG+Enthusiast+🎲)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Front+End+Developer+%40+WWS;React+%7C+JavaScript+%7C+HTML+%7C+CSS;Bootstrap+%7C+MUI+%7C+Computer+Science+Student;Artist+%7C+Animator+%7C+TTRPG+Enthusiast+🎲)](https://git.io/typing-svg)
 
 </div>
 
@@ -20,7 +20,7 @@
 const wedsney = {
   role:       "Front End Developer @ WWS",
   currently:  ["Computuer science degree","JQuery + PHP + Bootstrap", "Typescript", "React SPA", "MUI components"],
-  learning:   ["JavaScript", "HTML", "CSS", "React", "Bootstrap", "MUI"],
+  learning:   ["JavaScript", "HTML", "CSS", "React", "Bootstrap","PHP", "Typescript", "MUI"],
   education:  "Back in college 🎓 — Computer Science Degree",
   collab:     "Web Development projects",
   seeking:    "FreeLance opportunities 💼",
@@ -44,8 +44,6 @@ const wedsney = {
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
 </div>
-
-
 
 ---
 
